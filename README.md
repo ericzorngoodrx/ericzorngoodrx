@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Zorn
 - 👀 I’m interested in Code, Golf, Video Games
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning Rust and AI Tools, such as LangChain
 - 💞️ I’m looking to collaborate on all things code
 - 📫 How to reach me eric.zorn@goodrx.com
 
