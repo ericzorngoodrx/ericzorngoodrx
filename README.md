@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericzorngoodrx
+- 👋 Hi, I’m Eric Zorn
 - 👀 I’m interested in Code, Golf, Video Games
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on all things code
